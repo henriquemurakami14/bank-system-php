@@ -1,2 +1,10 @@
-# sistema-banco-php
-Sistema simples de gerenciamento de contas em PHP. Permite criar e remover contas com validação de CPF e telefone, além de proteção por senha. Os dados são armazenados em um arquivo JSON para persistência. Ideal para aprender manipulação de arquivos e validação.
+Bank System PHP
+This project is a simple banking system developed in PHP, featuring basic account registration and management functionalities.
+
+Features
+User registration
+Data validation
+Information storage in a database
+Technologies Used
+PHP: Server-side logic and data handling.
+JSON: DataBase
