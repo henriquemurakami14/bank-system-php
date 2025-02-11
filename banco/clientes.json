@@ -1,26 +1,3 @@
-{
-    "1": {
-        "nome": "HENRIQUE AKIRA MURAKAMI",
-        "cpf": "092.153.209-11",
-        "telefone": "(45) 99989-9732",
-        "senha": "akira14"
-    },
-    "2": {
-        "nome": "GABRIEL",
-        "cpf": "137.460.979-08",
-        "telefone": "(45) 99805-4630",
-        "senha": "qwert"
-    },
-    "3": {
-        "nome": "GHGJ",
-        "cpf": "068.955.389-76",
-        "telefone": "(45) 99989-9732",
-        "senha": "123"
-    },
-    "4": {
-        "nome": "HENRIQUE",
-        "cpf": "092.153.209-11",
-        "telefone": "(45) 99989-9732",
-        "senha": "AKIRA14"
-    }
-}
+[
+
+]
